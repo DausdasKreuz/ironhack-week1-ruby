@@ -1,8 +1,7 @@
 # Ironhack - Week 1: Ruby basics
 
 ## Web Development Bootcamp oct 2016
-Here is the code of the exercises done in class to get better  
-understanding and small projects to apply the newknowledge.
+This is the class exercises code and small projects.
 
 **Day 1: Ruby collections**
 - Class exercise - Ruby collection methods
@@ -26,6 +25,6 @@ understanding and small projects to apply the newknowledge.
 - Class exercise - Login
 - Project - Shopping Cart
 
-** Day 5: Project day**
+**Day 5: Project day**
 
 - Project - Chess Validator
